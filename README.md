@@ -49,8 +49,7 @@ Prerequisites
 MATLAB (Recommended: R2018b or later).
 
 Installation
-1. Clone the repository:
-  git clone https://github.com/yourusername/lidar-slam.git
+1. Clone the repository
 2. Open MATLAB and add the project folder to the path:
   addpath(genpath('path_to_project_folder'));
 
