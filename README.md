@@ -1,8 +1,8 @@
-## Lidar-Based SLAM System in MATLAB
+# Lidar-Based SLAM System in MATLAB
 
 This project implements a Simultaneous Localization and Mapping (SLAM) system using Lidar data in MATLAB. It processes laser scans to build an occupancy grid map, detect lines and corners, and optimize the robot’s trajectory using a pose graph with loop closure detection.
 
-# Features
+# Process
 
 1. Lidar Data Processing
 2. Reads and preprocesses raw Lidar scans from .mat files.
