@@ -10,15 +10,12 @@ This project implements a Simultaneous Localization and Mapping (SLAM) system us
 4. Feature Extraction
 5. PCA-based line detection for extracting structured features.
 6. Corner detection for identifying key environmental points.
-7. SLAM Algorithm
-  Scan Matching (Fast and Brute-force methods) for pose estimation.
-  Pose Graph Optimization to correct accumulated errors.
-  Loop Closure Detection for reducing trajectory drift.
-  Mapping
-    Creates an occupancy grid to represent the environment.
-    Updates map with detected lines and key scans.
-  Visualization
-    Real-time plotting of robot trajectory, scan points, and pose graph.
+7. Scan Matching (Fast and Brute-force methods) for pose estimation.
+8. Pose Graph Optimization to correct accumulated errors.
+9. Loop Closure Detection for reducing trajectory drift.
+10. Creates an occupancy grid to represent the environment.
+11. Updates map with detected lines and key scans.
+12. Real-time plotting of robot trajectory, scan points, and pose graph.
 
 # Project Structure
 
