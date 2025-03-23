@@ -57,6 +57,6 @@ main
 
 # Performance
 
-1. Execution Time: The SLAM pipeline processes the dataset in ~55.4 seconds.
+1. Execution Time: The SLAM pipeline processes the dataset in ~55 - 60 seconds.
 2. Scan Matching Accuracy: Achieves 90% success rate in feature alignment.
 3. Mapping Precision: Captures key environmental structures with minimal drift.
